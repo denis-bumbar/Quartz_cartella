@@ -1,4 +1,4 @@
-Esistono diversi comandi su Linux che ti permettono di usare correttamente la macchina:
+Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti correttamente nella macchina:
 
 **pwd:** serve per localizzare la posizione dell’utente nelle directory.
 
