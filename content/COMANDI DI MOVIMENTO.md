@@ -1,4 +1,4 @@
-Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti correttamente nella macchina:
+Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti correttamente la macchina:
 
 **pwd:** serve per localizzare la posizione dell’utente nelle directory.
 
@@ -17,3 +17,13 @@ Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti co
 - _-t_ i file vengono ordinati in base alla data di ultima modifica.
     
 - _-r_ i file vengono visualizzati al contrario.
+
+
+#### **Se vuoi tornare all'inizio dell'argomento:**
+[[COMANDI LINUX]]
+
+#### Se vuoi tornare alla Home della materia:
+
+[[TPI]]
+#### **Se vuoi tornare nella Home:**
+[[index]]

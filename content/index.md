@@ -1,6 +1,16 @@
 ---
-title: Tecnologie di Progettazione Informatiche
+title: Home
 ---
-All'interno di questo sito si raccolgono tutti gli appunti della materia Tecnologie di Progettazione Informatiche. Tutto sarà suddiviso in argomenti e sotto argomenti.
-[[COMANDI LINUX]]
+All'interno di questo sito si raccolgono gli appunti di tutte le materie. Buon divertimento.
+
+### Sistemi e Reti Informatiche:
+
+[[SRI]]
+
+### Tecnologie di Progettazione Informatiche:
+
+[[TPI]]
+
+
+
 
