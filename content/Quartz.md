@@ -16,7 +16,7 @@ Usa questo comando per installare le librerie:
 
 	npm i
 
-#### <span style="color:red"> INIZIALIZZA QUARTZ. </span>
+### <span style="color:red"> INIZIALIZZA QUARTZ. </span>
 
 Crea un nuovo progetto di quartz, usa il seguente comando:
 
