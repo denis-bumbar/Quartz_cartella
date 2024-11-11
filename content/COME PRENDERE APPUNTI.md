@@ -14,10 +14,6 @@ Prerequisiti:
 
 [[Quartz]]
 
-#### Se vuoi tornare alla Home della materia:
-
-[[SRI]]
-#### Se vuoi tornare nella Home:
-
-[[index]]
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[SRI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]
 

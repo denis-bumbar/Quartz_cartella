@@ -15,14 +15,7 @@ Controlla la versione di Node.js (dovrebbe essere 22.11.0)
 Controlla la versione del npm (dovrebbe essere 10.9.0)
 
 	npm -v
-#### Se vuoi tornare all'inizio dell'argomento:
+#### <span style="color:green"> Se vuoi tornare all'inizio dell'argomento:</span> [[COME PRENDERE APPUNTI]]
 
-[[COME PRENDERE APPUNTI]]
-
-#### Se vuoi tornare alla Home della materia:
-
-[[SRI]]
-#### Se vuoi tornare nella Home:
-
-[[index]]
-
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[SRI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]

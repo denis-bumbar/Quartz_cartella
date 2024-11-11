@@ -11,13 +11,7 @@ Una volta finita l'installazione di tutti i pacchetti esegui i seguenti comandi 
 	eval "$(/opt/homebrew/bin/brew shellenv)"
 
 Esegui "brew help" per iniziare.
-#### Se vuoi tornare all'inizio dell'argomento:
+#### <span style="color:green"> Se vuoi tornare all'inizio dell'argomento:</span> [[COME PRENDERE APPUNTI]]
 
-[[COME PRENDERE APPUNTI]]
-
-#### Se vuoi tornare alla Home della materia:
-
-[[SRI]]
-#### Se vuoi tornare nella Home:
-
-[[index]]
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[SRI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]

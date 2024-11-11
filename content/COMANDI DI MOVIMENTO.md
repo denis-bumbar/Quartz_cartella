@@ -19,11 +19,7 @@ Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti co
 - _-r_ i file vengono visualizzati al contrario.
 
 
-#### **Se vuoi tornare all'inizio dell'argomento:**
-[[COMANDI LINUX]]
+#### <span style="color:green"> Se vuoi tornare all'inizio dell'argomento:</span> [[COMANDI LINUX]]
 
-#### Se vuoi tornare alla Home della materia:
-
-[[TPI]]
-#### **Se vuoi tornare nella Home:**
-[[index]]
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[TPI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]

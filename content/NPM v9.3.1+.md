@@ -1,14 +1,7 @@
 Puoi far riferimento al seguente link: [[NodeJS v18.14+]] dove è inclusa anche l'installazione del **NPM** (Node Packet Manager).
 
 
-#### Se vuoi tornare all'inizio dell'argomento:
+#### <span style="color:green"> Se vuoi tornare all'inizio dell'argomento:</span> [[COME PRENDERE APPUNTI]]
 
-[[COME PRENDERE APPUNTI]]
-
-#### Se vuoi tornare alla Home della materia:
-
-[[SRI]]
-#### Se vuoi tornare nella Home:
-
-[[index]]
-
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[SRI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]
