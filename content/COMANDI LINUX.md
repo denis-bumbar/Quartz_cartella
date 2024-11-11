@@ -3,4 +3,4 @@ In questo capitolo tratteremo i diversi comandi di Linux che permettono di utili
 [[COMANDI DI MOVIMENTO]]
 
 #### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[TPI]]
-#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[index]]

@@ -22,4 +22,4 @@ Esistono diversi comandi  di movimento su Linux che ti permettono di muoverti co
 #### <span style="color:green"> Se vuoi tornare all'inizio dell'argomento:</span> [[COMANDI LINUX]]
 
 #### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[TPI]]
-#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[index]]

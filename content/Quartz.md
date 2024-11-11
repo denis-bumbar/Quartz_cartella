@@ -47,4 +47,4 @@ Di default Quartz userà il percorso più breve esistente. Se visualizzi il segu
 
 #### <span style="color:green"> Se vuoi tornare alla Home della materia: </span> [[SRI]]
 
-#### <span style="color:green">  Se vuoi tornare nella Home: </span> [[Appunti]]
+#### <span style="color:green">  Se vuoi tornare nella Home: </span> [[index]]

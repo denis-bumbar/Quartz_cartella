@@ -18,4 +18,4 @@ Il Sistema Operativo risiede sull'Hard Disk e viene caricato solo al momento del
 
 #### <span style="color:green"> Per tornare alla Home della materia: </span> [[TPI]]
 
-#### <span style="color:green"> Per tornare alla Home: </span> [[Appunti]]
+#### <span style="color:green"> Per tornare alla Home: </span> [[index]]

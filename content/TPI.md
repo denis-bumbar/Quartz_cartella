@@ -5,6 +5,6 @@ Qui saranno raccolti tutti gli appunti riguardanti la materia Tecnologie di Prog
 [[COMANDI LINUX]]
 
 [[GESTIONE DEL PROCESSORE]]
-#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[Appunti]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[index]]
 
 
