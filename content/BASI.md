@@ -8,7 +8,7 @@ L'interprete è un programma in grado di eseguire altri programmi a partire dire
 
 ### <span style="color:red"> Sistema Operativo</span>
 
-Fa parte del software di base di un calcolatore insieme ad: [[editor]], [[compilatori]], [[linker]], [[loader]], [[debugger]]. Il Sistema Operativo svolge diverse funzioni:
+Fa parte del software di base di un calcolatore insieme ad: editor, compilatori, linker, loader, debugger. Il Sistema Operativo svolge diverse funzioni:
 - <span style="color:red"> gestore di risorse hardware </span>: CPU, memoria, periferiche. Il SO supervisiona la scrittura e lettura dei dischi, la ricezione e la trasmissione dei dati attraverso tutti i dispositivi di I/O, l’esecuzione dei programmi caricando istruzioni e dati in RAM.
 - <span style="color:red"> interfaccia </span>: Il SO fornisce all’utente il supporto (un’interfaccia grafica o a linea di comando) per impartire i comandi necessari al funzionamento del computer.
 
