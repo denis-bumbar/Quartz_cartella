@@ -5,4 +5,6 @@ I possibili stati sono, come rappresentati in figura:
 - <span style = "color:red">waiting:</span> un processo è in attesa quando gli manca una risorsa per poter evolvere; quindi attende che si verifichi un evento che lo riporti in stato di “*ready*” 
 - <span style = "color:red">terminated:</span> tutto il codice del processo è stato eseguito e quindi ha terminato l’esecuzione; il SO può rilasciare tutte le risorse che utilizzava
 
-<span style="color:green">Per tornare indietro: </span> [[GESTIONE DEL PROCESSORE]]
+#### <span style="color:green">Per tornare indietro: </span> [[GESTIONE DEL PROCESSORE]]
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[TPI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[index]]

@@ -16,7 +16,8 @@ Per usare correttamente il Kernel, che funziona tramite chiamate di funzione, ci
 - *Le interfacce grafiche di tipo GUI sono tipiche dei SO friendly user come Windows, MacOS e Linux (distribuzioni più recenti)*
 
 #### <span style="color:green"> Per tornare indietro: </span> [[BASI]]
-
+#### <span style="color:green"> Se vuoi tornare alla Home della materia: </span>[[TPI]]
+#### <span style="color:green"> Se vuoi tornare nella Home: </span>[[index]]
 
 
 

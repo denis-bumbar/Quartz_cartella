@@ -7,7 +7,7 @@ All'interno di questo sito si raccolgono gli appunti di tutte le materie. Buon d
 
 ### <span style="color:green"> Tecnologie di Progettazione Informatiche: </span> [[TPI]]
 
-### <span style="color:green"> Javascript: </span> [[JavaScript]]
+### [[JavaScript]]
 
 
 
