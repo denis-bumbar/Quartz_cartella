@@ -9,6 +9,7 @@ All'interno di questo sito si raccolgono gli appunti di tutte le materie. Buon d
 
 ### [[JavaScript]]
 
+### [[Curiosità]]
 
 
 
