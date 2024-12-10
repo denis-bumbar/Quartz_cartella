@@ -136,9 +136,12 @@ Copia e incolla il seguente codice controllando le varie versioni di sistema ope
 
 Salva e chiudi il file.
 
+Un ultimo passo, vai in su Github, Setting, Pages e sotto Source
+
 Sincronizza le modifiche:
 
 	npx quartz sync
+
 
 Se vedi che il sito online non funziona comunque, controlla il codice del file ***deploy.yml.*** Puoi controllare che corrisponda al tuo bisogno al seguente link:
 
@@ -147,6 +150,7 @@ Se vedi che il sito online non funziona comunque, controlla il codice del file *
 Visualizza il tuo sito con il seguente link, ricordati di cambiare yourusername con il tuo username e my-notes con il nome della cartella che hai creato:
 
 	https://yourusername.github.io/my-notes
+
 
 # GODITI IL TUO NUOVO SITO!!!
 
